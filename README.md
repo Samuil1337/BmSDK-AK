@@ -20,17 +20,20 @@ public class DemoScript : Script
         if (key == Keys.J)
         {
             var playerPawn = Game.GetPlayerPawn();
-
-            // Load .upk with RCharacter_Joker
-            Game.LoadPackage("FunFair");
-
-            // Spawn in Joker
-            var newCharacter = new RPawnVillainThug(playerPawn.Location, playerPawn.Rotation);
-            newCharacter.InitCharacter(RCharacter_Joker.StaticClass());
+            var population = Game.GetPopulationManager();
+    
+            // Spawn Joker in front of the player
+            var define = Game.FindObject<RCharacterDefine>("MainCharacterDefines.Villain.JokerHealthy");
+            var joker = population.SpawnPawn(
+                RPawnVillainThug.StaticClass(),
+                define,
+                RCharacter_Thug.StaticClass(),
+                playerPawn.Location
+            );
 
             // Move Joker in front of the player
-            var playerDir = playerPawn.Rotation.ToDirection() with { Z = 0 };
-            newCharacter.Move(playerDir * 100);
+            var dir = playerPawn.Rotation.ToDirection() with { Z = 0 };
+            joker.Move(dir * 100);
         }
     }
 }
