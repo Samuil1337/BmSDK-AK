@@ -21,19 +21,19 @@ A scripting platform for the Batman: Arkham games, allowing you to integrate cus
 
 <p align="center">
   <a href="./LICENSE.md">
-    <img alt="MIT license" src="https://img.shields.io/badge/license-MIT-green.svg" />
+    <img alt="MIT license" src="https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge" />
   </a>
   <a href="../../releases/latest">
-    <img alt="Latest release" src="https://img.shields.io/github/v/release/Team-BmSDK/BmSDK-AK" />
+    <img alt="Latest release" src="https://img.shields.io/github/v/release/Team-BmSDK/BmSDK-AK?style=for-the-badge" />
   </a>
   <a href="../../releases/latest">
-    <img alt="Downloads" src="https://img.shields.io/github/downloads/Team-BmSDK/BmSDK-AK/total" />
+    <img alt="Downloads" src="https://img.shields.io/github/downloads/Team-BmSDK/BmSDK-AK/total?style=for-the-badge" />
   </a>
   <a href="https://dotnet.microsoft.com/en-us/download/dotnet/10.0">
-    <img alt=".NET 10" src="https://img.shields.io/badge/.NET-10.0-512bd4" />
+    <img alt=".NET 10" src="https://img.shields.io/badge/.NET-10.0-512bd4?style=for-the-badge" />
   </a>
   <a href="https://discord.com/invite/arkhamworkshop">
-    <img alt="Community Discord" src="https://img.shields.io/discord/1218395254013558844?logo=discord&logoColor=E0E3FF&label=Community%20Discord&labelColor=5865F2" />
+    <img alt="Community Discord" src="https://img.shields.io/discord/1218395254013558844?logo=discord&logoColor=E0E3FF&label=Community%20Discord&labelColor=5865F2&style=for-the-badge" />
   </a>
 </p>
 
