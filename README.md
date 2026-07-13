@@ -1,10 +1,18 @@
-# BmSDK for Arkham Knight
+> **Important note**: This is the *BmSDK for Arkham Knight* repository.
+>
+> The scripthook is also available for [Batman: Arkham City](https://github.com/Team-BmSDK/BmSDK-AC).
 
 <br />
 
 <p align="center">
   <img width="400" height="200" alt="BmSDK-Logo-White" src="https://github.com/user-attachments/assets/f745c502-d89a-4301-9ef8-6bb4e430d0e9#gh-dark-mode-only" />
   <img width="400" height="200" alt="BmSDK-Logo-Black" src="https://github.com/user-attachments/assets/a49ee32a-fa15-4a1b-b4a4-7a7dde5a0695#gh-light-mode-only" />
+</p>
+
+<br />
+
+<p align="center">
+A scripting platform for the Batman: Arkham games, allowing you to integrate custom C# code for modified gameplay and logic.
 </p>
 
 <br />
@@ -27,12 +35,11 @@
   </a>
 </p>
 
+<hr />
+
 <br />
 
-## 📖 About
-BmSDK is a scripting platform for Batman: Arkham Knight and [Batman: Arkham City](https://github.com/Team-BmSDK/BmSDK), allowing you to extend the game with C# code for custom gameplay and logic.
-
-It gives you access to a full SDK for working with the game and its world, based on the engine's own UnrealScript API - for example, a short script to spawn in Joker near the player:
+The scripthook gives you access to a full SDK for working with the game and its world, based on the engine's own UnrealScript API - for example, a short script to spawn in Joker near the player:
 ```cs
 using BmSDK;
 using BmSDK.BmGame;
