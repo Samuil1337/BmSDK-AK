@@ -22,6 +22,9 @@
   <a href="https://dotnet.microsoft.com/en-us/download/dotnet/10.0">
     <img alt=".NET 10" src="https://img.shields.io/badge/.NET-10.0-512bd4" />
   </a>
+  <a href="https://discord.com/invite/arkhamworkshop">
+    <img alt="Community Discord" src="https://img.shields.io/discord/1218395254013558844?logo=discord&logoColor=E0E3FF&label=Community%20Discord&labelColor=5865F2" />
+  </a>
 </p>
 
 <br />
