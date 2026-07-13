@@ -5,8 +5,8 @@
 <br />
 
 <p align="center">
-  <img width="400" height="200" alt="BmSDK-Logo-White" src="https://github.com/user-attachments/assets/f745c502-d89a-4301-9ef8-6bb4e430d0e9#gh-dark-mode-only" />
-  <img width="400" height="200" alt="BmSDK-Logo-Black" src="https://github.com/user-attachments/assets/a49ee32a-fa15-4a1b-b4a4-7a7dde5a0695#gh-light-mode-only" />
+  <img width="5000" height="1344" alt="BmSDK logo black" src="https://github.com/user-attachments/assets/d5446cc2-16c8-4dd0-98fa-7248708d6c46#gh-light-mode-only" />
+  <img width="5000" height="1344" alt="BmSDK logo white" src="https://github.com/user-attachments/assets/ab0b54fe-b851-4021-aaf4-c8e0a834f051#gh-dark-mode-only" />
 </p>
 
 <br />
