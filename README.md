@@ -13,6 +13,9 @@
   <a href="./LICENSE.md">
     <img alt="MIT license" src="https://img.shields.io/badge/license-MIT-green.svg" />
   </a>
+  <a href="../../releases/latest">
+    <img alt="Latest release" src="https://img.shields.io/github/v/release/Team-BmSDK/BmSDK-AK" />
+  </a>
 </p>
 
 <br />
