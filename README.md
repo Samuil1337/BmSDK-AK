@@ -19,6 +19,9 @@
   <a href="../../releases/latest">
     <img alt="Downloads" src="https://img.shields.io/github/downloads/Team-BmSDK/BmSDK-AK/total" />
   </a>
+  <a href="https://dotnet.microsoft.com/en-us/download/dotnet/10.0">
+    <img alt=".NET 10" src="https://img.shields.io/badge/.NET-10.0-512bd4" />
+  </a>
 </p>
 
 <br />
