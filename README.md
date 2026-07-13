@@ -16,6 +16,9 @@
   <a href="../../releases/latest">
     <img alt="Latest release" src="https://img.shields.io/github/v/release/Team-BmSDK/BmSDK-AK" />
   </a>
+  <a href="../../releases/latest">
+    <img alt="Downloads" src="https://img.shields.io/github/downloads/Team-BmSDK/BmSDK-AK/total" />
+  </a>
 </p>
 
 <br />
