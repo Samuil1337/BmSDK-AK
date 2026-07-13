@@ -1,7 +1,4 @@
 # BmSDK for Arkham Knight
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
-
-<img height="656" alt="Screenshot_2026-03-20_142630" src="https://github.com/user-attachments/assets/81eef06f-c08c-4ffb-83d9-522a5e1a4873" />
 
 ## 📖 About
 BmSDK is a scripting platform for Batman: Arkham Knight and [Batman: Arkham City](https://github.com/Team-BmSDK/BmSDK), allowing you to extend the game with C# code for custom gameplay and logic.
