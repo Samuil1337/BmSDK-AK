@@ -14,7 +14,7 @@
 <br />
 
 <p align="center">
-A scripting platform for the Batman: Arkham games, allowing you to integrate custom C# code for modified gameplay and logic.
+A powerful, easy-to-use scripting platform for Batman: Arkham Knight that lets you integrate custom C# code for gameplay mods and more.
 </p>
 
 <br />
