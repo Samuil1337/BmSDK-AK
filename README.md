@@ -41,7 +41,10 @@ A scripting platform for the Batman: Arkham games, allowing you to integrate cus
 
 <br />
 
-The scripthook gives you access to a full SDK for working with the game and its world, based on the engine's own UnrealScript API - for example, a short script to spawn in Joker near the player:
+The scripthook gives you access to a full SDK for working with the game and its world, based on the engine's own UnrealScript API:
+<details> 
+<summary>Script to spawn in Joker near the player</summary>
+
 ```cs
 using BmSDK;
 using BmSDK.BmGame;
@@ -73,6 +76,7 @@ public class DemoScript : Script
     }
 }
 ```
+</details>
 
 Check out the [wiki](../../wiki) for more info!
 
